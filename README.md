@@ -39,7 +39,7 @@ A ferramenta foi construída com **Streamlit**, proporcionando uma interface ami
 
 ## 👤 Autora
 
-Projeto desenvolvido por **Camila Catarina Pereira Chaves** – candidata ao programa de estágio Bradesco 2026.2.
+Projeto desenvolvido por **Camila Catarina Pereira Chaves** – porfólios e currículos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
