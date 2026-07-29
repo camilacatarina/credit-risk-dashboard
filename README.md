@@ -57,26 +57,6 @@ Siga os passos abaixo para rodar o dashboard no seu computador.
 - Editor de código (VS Code, PyCharm, etc.)
 
 ---
-
-### 📥 Clonar o Repositório
-
-**Opção 1 – Clonar com Git:**
-
-```bash
-git clone https://github.com/SEU-USUARIO/credit-risk-dashboard.git
-cd credit-risk-dashboard
-
-python -m venv venv
-venv\Scripts\activate
-
-pip install -r requirements.txt
-
-pip install streamlit pandas numpy matplotlib seaborn scikit-learn scipy plotly
-
-streamlit run app.py
-
-http://localhost:8501 (Rodar na sua máquina)
-
 ## 🎯 Como Usar (Fluxo do Dashboard)
 
 1. **Prévia dos Dados:** Ao abrir, você vê as primeiras linhas do dataset para ter uma noção dos dados.
@@ -94,3 +74,22 @@ http://localhost:8501 (Rodar na sua máquina)
 
 
 **Projeto desenvolvido para porfólio e currículo**
+
+### 📥 Clonar o Repositório
+
+**Opção: Clonar com Git:**
+
+```bash
+git clone https://github.com/SEU-USUARIO/credit-risk-dashboard.git
+cd credit-risk-dashboard
+
+python -m venv venv
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
+pip install streamlit pandas numpy matplotlib seaborn scikit-learn scipy plotly
+
+streamlit run app.py
+
+http://localhost:8501 #Rodar na sua máquina.
